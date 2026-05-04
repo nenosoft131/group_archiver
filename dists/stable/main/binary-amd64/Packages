@@ -1,0 +1,16 @@
+Package: group-archiver
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Your Name <you@example.com>
+Installed-Size: 33
+Depends: python3:any
+Filename: pool/main/group-archiver_1.0.0-1_all.deb
+Size: 4828
+MD5sum: 6ea08f2e3d49e3dd9a8a9e82fc581762
+SHA1: ef0bf85f8d2a5d757c89423c4bbac3427069090e
+SHA256: c42614661fed1a4b0282a30b24d707e1862cd6869c0cdf05531142b9be618bf0
+Section: utils
+Priority: optional
+Description: Linux group file archiving tool
+ Moves files owned by users in a group into an archive directory while preserving structure.
+

@@ -1,0 +1,24 @@
+Origin: GroupArchiver
+Label: GroupArchiver
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: MyRepo
+Date: Mon, 04 May 2026 09:54:40 +0000
+MD5Sum:
+ 7eb7ed40b5e45c1ee89ee6a5703a8d46              170 Release
+ 758aed0a6d383f777c70b9a97a1bed48              535 main/binary-amd64/Packages
+ 4d4ac7b5896893993863d83701ef1130              404 main/binary-amd64/Packages.gz
+SHA1:
+ c8b000acb9aafe9a86a46d56105b4b31f8b2d18e              170 Release
+ 76f3410eaea21e2454fe4c4924e56a8b1d14216f              535 main/binary-amd64/Packages
+ b2363e4daeb56f516cb14ddf7534f0b862efcfc2              404 main/binary-amd64/Packages.gz
+SHA256:
+ 79c8e78c61d83099c8b8602e402142563134d975b75a8e0c1f1fc778573cea58              170 Release
+ 82eb0ea39314a51c5a56ddcacbbfa58ed0f04785c193eae99cdb13b2184fe5b8              535 main/binary-amd64/Packages
+ adb88ab88232a3bf74088d498419a060102ced9d39469ad5252157a2108e774b              404 main/binary-amd64/Packages.gz
+SHA512:
+ 9ca367a58279ead037c5fcf7a32fbc52673270012315dbb9914c7d0f537553bd9d976ccf77c7c176053a619cf95843549211d1551d8d01a24b71483c3c6adf8a              170 Release
+ 7f26af6348a97770d16c09b2c16bf0ec080a11ce0a2c844700c7c0eff1a041cb81212c944dcb54ee8a5aac1aa57cfdb26c4d3107ff075b1f7951290c985ed7dc              535 main/binary-amd64/Packages
+ fec9ccc09e039ba145af3eac88f9e59405b6d24e66cb61047f680545afdbe3957b6ee30b321166420ef54ba401c02b4005904d746a4608aed7d95010142ae905              404 main/binary-amd64/Packages.gz
