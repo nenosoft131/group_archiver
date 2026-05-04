@@ -4,31 +4,31 @@ Hash: SHA512
 Architectures: all
 Codename: stable
 Components: main
-Date: Mon, 04 May 2026 11:34:32 +0000
+Date: Mon, 04 May 2026 12:00:38 +0000
 Description: MyRepo
 Label: GroupArchiver
 Origin: GroupArchiver
 Suite: stable
 MD5Sum:
- fafc818e45fea42c0704324d32e1e028              168 Release
- 758aed0a6d383f777c70b9a97a1bed48              535 main/binary-all/Packages
- 16dfa0265d698e95328853060de8d2b4              404 main/binary-all/Packages.gz
+ 4a6efebc68530c48b5ae089c7984b763              168 Release
+ 58c3992c6625e4d3b39d9817775787c7              535 main/binary-all/Packages
+ ca0abd98eb8b0c214a7aed981a9c33af              402 main/binary-all/Packages.gz
 SHA1:
- 0daec24a451d95b2271bdfe5fde1482de9efc4ce              168 Release
- 76f3410eaea21e2454fe4c4924e56a8b1d14216f              535 main/binary-all/Packages
- 058202da4c59c41be20ddaf53101059c628ac994              404 main/binary-all/Packages.gz
+ 271db07f6fef94b223c4e03167d6f9c50177735d              168 Release
+ a4db390188b97475957fec077e795ba3d4cab02d              535 main/binary-all/Packages
+ aeaa94b97d85759174654c334cf33a779c6280f1              402 main/binary-all/Packages.gz
 SHA256:
- 102f84e1b59a46f31fdc926c6f2f1f5e0d6876d6f1f7f43216e22e412c82752a              168 Release
- 82eb0ea39314a51c5a56ddcacbbfa58ed0f04785c193eae99cdb13b2184fe5b8              535 main/binary-all/Packages
- b7ff9301be34ad426e7893cfd323b68d2ef8be628fa9cf6b302f3dc1702f6e5f              404 main/binary-all/Packages.gz
+ f9b47b9cf7c3d0e7bf42848b222482366547bde1c7f2d709ea71562d875b0f0d              168 Release
+ acf785245df8e5bff0b68cf415165a542947cbe30329d9e26fc2f9f5f81ee371              535 main/binary-all/Packages
+ 722ee3d70377b8655d4a76f0186134cb6f45d4b084f4f52bb9c2b6c41f0c334b              402 main/binary-all/Packages.gz
 SHA512:
- 1d2d3cffe0cb6aadaf3ddaba63a36db89a146bc58897f86e5a64be3d93afd1ff6b1d275b99d70d6bd7da53f6a9b90c13e601da440146e094bc9b30b67681a916              168 Release
- 7f26af6348a97770d16c09b2c16bf0ec080a11ce0a2c844700c7c0eff1a041cb81212c944dcb54ee8a5aac1aa57cfdb26c4d3107ff075b1f7951290c985ed7dc              535 main/binary-all/Packages
- db3e6f8ba0ddd15ac8ffc7a256d09b4d77f42a97947964c6fa59bb58594aaeaea540feab3faa58fc7cccf49ed3a72da5074d3032217351f845df28e1b4bc8fc4              404 main/binary-all/Packages.gz
+ e9dc48997fff6e2012ac2bb07679c1087ca69a15c99f8b6d4d734d4f4e35792c7ec71e73710cf95a14951b703d07957eb88557ace613aac9cdb5efcd27c92d5b              168 Release
+ 29150fb59e9d9b9727d9b34d37902026a54bcc6633793646d4631a1503df7093e0f137406ad5ed26572434f02ac2875c206954e4077bbc70de715a54b4574ac0              535 main/binary-all/Packages
+ 6662b188c86fba5ff94d8f0acc32e7bd0ff62f5ba65d542c7e5ebc64200404817190bb093b2d16a15a5247b43d3ba1359a6a7f5b21f8ef9a9e0a8596303afc26              402 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRxBK1W541NT+bvQGM/durB1gYhwAUCafiEXAAKCRA/durB1gYh
-wIuUAQCT2nYTNHjumxJ4xxJYctzudbcCBO/q9fy2GUet6CHDsAEAkMOFjvFMxg1w
-e7x5vXl0ISa4eRPgMiBtG2xm/QngQQY=
-=A/2J
+iHUEARYKAB0WIQRxBK1W541NT+bvQGM/durB1gYhwAUCafiKnQAKCRA/durB1gYh
+wEZ3AQChE4IRFLrkg6OQ57Kjrx8M/glm/6l4udjL8TQHMGeI1AEA0UYjFKMrfYZZ
+64363Pl0+2wePvzPdjj6hoQZKbcFgA4=
+=9mlU
 -----END PGP SIGNATURE-----
